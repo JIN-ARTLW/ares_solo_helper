@@ -1,11 +1,11 @@
 # 🌌 Ares Expedition 1인플 도우미
 
-[🔗 바로가기](https://jin-artlw.github.io/ares_solo_helper/)  
+[🔗 바로가기](https://jin-artlw.github.io/ares_solo_helper/)
+<br><br>
 Terraforming Mars: Ares Expedition의 1인플레이를 보다 편리하게 도와주는 웹 도구입니다.
-
-<br/>
-
 - AI = 더미 카드 덱을 뜻합니다.
+
+  <br>
 
 ## ✨ 주요 기능
 
