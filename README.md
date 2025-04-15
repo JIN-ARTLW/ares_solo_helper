@@ -1,13 +1,13 @@
-# Ares Expedition 1인플 도우미
+# 🌌 Ares Expedition 1인플 도우미
 
-[바로가기](https://jin-artlw.github.io/ares_solo_helper/)  
+[🔗 바로가기](https://jin-artlw.github.io/ares_solo_helper/)  
 Terraforming Mars: Ares Expedition의 1인플레이를 보다 편리하게 도와주는 웹 도구입니다.
 
 <br/>
 
 - AI = 더미 카드 덱을 뜻합니다.
 
-## 주요 기능
+## ✨ 주요 기능
 
 - **1인 플레이 단계 추적**
   - AI의 단계 카드 더미를 자동 셔플 및 표시
@@ -25,7 +25,7 @@ Terraforming Mars: Ares Expedition의 1인플레이를 보다 편리하게 도�
 
 <br/>
 
-## 룰 정리
+## 💻 룰 정리
 
 - 총 5TR까지 테라포밍을 완료해야 합니다.
 - AI(더미)의 단계 카드 더미는 5장이며, 랜덤으로 카드 5장을 모두 사용 후 1TR을 추가 후 자동 셔플됩니다.
@@ -34,7 +34,7 @@ Terraforming Mars: Ares Expedition의 1인플레이를 보다 편리하게 도�
 
 <br/>
 
-## 💻 사용 기술
+## 🛠 사용 기술
 
 - HTML, CSS (Glassmorphism Design)
 - JavaScript (Vanilla)
