@@ -23,6 +23,11 @@ Terraforming Mars: Ares Expedition의 1인플레이를 보다 편리하게 도�
 - **반응형 인터페이스**
   - 모바일 및 데스크탑 모두 최적화
 
+![스크린샷 2025-04-15 20 07 39](https://github.com/user-attachments/assets/191d6a89-2dfe-42da-926e-9d433b49e25d)
+![스크린샷 2025-04-15 20 07 49](https://github.com/user-attachments/assets/6215dfbb-73bc-4c5a-bf57-e0b3d2834903)
+![스크린샷 2025-04-15 20 07 52](https://github.com/user-attachments/assets/db07cc98-84c1-46e0-a6e0-99561988c06a)
+
+
 <br/>
 
 ## 💻 룰 정리
